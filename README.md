@@ -2,4 +2,4 @@
 Circle detection using hough transform + classification of the color of each circle found.
 Applied on assorted tomatoes image.
 Result:
-![alt text](https://raw.githubusercontent.com/zionahar/Circle detection and Classification/branch/path/to/Result.jpg)
+![alt text](https://raw.githubusercontent.com/zionahar/Circle-detection-and-Classification-MATLAB/branch/path/to/Result.jpg)
